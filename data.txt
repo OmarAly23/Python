@@ -1,0 +1,5 @@
+Python Tutorial: Python is an object-oriented, high-level, interpreted programming language with dynamic semantics. Python has a rich set of high-level in-built data structures (data types) which combined with dynamic typing and data typing. It makes Python a very popular and attractive programming language for rapid application development, scripting.
+
+Python is simple, easy to learn, readable and Python codes are smaller than codes of other programming languages like C, C++, Java, etc. The codes and relatively less and indented which makes the code readable/editable for the programmers all the time.
+
+In this python tutorial, we covered almost all topics starting from python basics to advanced topics like Machine learning with Python, Python Pandas, Python Data Science, this Python tutorial is specifically designed for beginners and professionals
