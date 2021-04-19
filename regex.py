@@ -13,9 +13,9 @@ def ValidNum(string) :
 
 
 if __name__ == "__main__" :
-   N = int(input())
+   N = int(input('Enter a value: '))
    while N > 0 :
-        s = str(input())
+        s = str(input('Enter a phone number: '))
         v=ValidNum(s)
         if v == True :
             print("YES")
